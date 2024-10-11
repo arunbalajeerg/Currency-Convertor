@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Currency Converter",
+    "version": "1.0",
+    "description": "Convert currencies using live rates.",
+    "permissions": ["storage"],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
